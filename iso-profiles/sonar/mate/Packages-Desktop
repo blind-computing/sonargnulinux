@@ -42,7 +42,7 @@ manjaro-application-utility
 mc # Midnight Commander
 pacui
 mhwd-tui
-xterm
+#xterm
 gparted
 squashfs-tools
 grilo-plugins
@@ -115,12 +115,12 @@ yelp
 caja-open-terminal
 >extra caja-wallpaper
 >extra gtk3-print-backends
-manjaro-documentation-en
+>extra manjaro-documentation-en
 >extra mate-themes
 mate-tweak
 >extra mate-screensaver
 #>extra libreoffice-fresh
-thunderbird
+>extra thunderbird
 >extra lollypop
 vlc
 >extra empathy
@@ -137,7 +137,7 @@ timeshift 								#backup utility
 >extra blueman
 >extra vala-panel-appmenu-mate
 >extra mate-applet-dock
-mate-applets
+>extra mate-applets
 >extra plank
 >extra ffmpegthumbnailer
 autoconf
