@@ -37,12 +37,10 @@ pluma
 mozo
 gnome-disk-utility
 gnome-keyring
-# manjaro-mate-settings
 manjaro-application-utility
 mc # Midnight Commander
 pacui
 mhwd-tui
-#xterm
 gparted
 squashfs-tools
 grilo-plugins
@@ -63,7 +61,6 @@ libappindicator-gtk3
 manjaro-alsa
 manjaro-artwork
 manjaro-browser-settings
-#manjaro-mate-settings
 manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
@@ -84,7 +81,7 @@ networkmanager-vpnc
 nss-mdns
 numlockx
 openresolv
-pamac
+pamac-classic
 powertop
 pulseaudio-bluetooth
 pulseaudio-ctl
@@ -117,15 +114,15 @@ caja-open-terminal
 >extra gtk3-print-backends
 >extra manjaro-documentation-en
 >extra mate-themes
-mate-tweak
+>extra mate-tweak
 >extra mate-screensaver
 #>extra libreoffice-fresh
 >extra thunderbird
 >extra lollypop
-vlc
+>extra vlc
 >extra empathy
-uget
-transmission-gtk
+>extra uget
+>extra transmission-gtk
 >extra brasero
 >extra jre8-openjdk
 >extra jre8-openjdk-headless
