@@ -1,4 +1,4 @@
-#sonar sonar-release
+sonar-release
 >i686 archlinux32-keyring
 >multilib gcc-libs-multilib
 acpi
@@ -48,7 +48,7 @@ lvm2
 man-db
 man-pages
 manjaro-firmware
-manjaro-release
+#manjaro-release
 manjaro-system
 mdadm
 memtest86+
@@ -86,5 +86,4 @@ which
 wpa_supplicant
 xfsprogs
 xz
-manjaro-zsh-config
 hardcode-fixer #This script adjust the missing icons when are hardcoded
