@@ -1,4 +1,3 @@
-calamares
 KERNEL-bbswitch
 KERNEL-broadcom-wl
 #KERNEL-r8168
@@ -10,11 +9,10 @@ mkinitcpio-nfs-utils
 nbd
 open-vm-tools
 primus
->manjaro grub-theme-live-manjaro
+grub-theme-live-manjaro
 squashfs-tools
 bumblebee
 manjaro-live-systemd
-manjaro-architect
 xf86-input-vmmouse
 xf86-video-amdgpu
 xf86-video-ati
