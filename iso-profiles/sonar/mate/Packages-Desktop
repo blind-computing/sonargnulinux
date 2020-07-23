@@ -2,7 +2,6 @@ adwaita-icon-theme
 alsa-firmware
 dconf-editor
 dmidecode
-hexchat
 eom
 atril
 engrampa
@@ -41,7 +40,6 @@ manjaro-application-utility
 mc # Midnight Commander
 pacui
 mhwd-tui
-gparted
 squashfs-tools
 grilo-plugins
 gst-libav
@@ -67,11 +65,9 @@ manjaro-settings-manager-notifier
 manjaro-hello
 bauh
 snapd
-mesa-demos
 mobile-broadband-provider-info
 modemmanager
 usb_modeswitch
->multilib lib32-mesa-demos
 netctl
 network-manager-applet
 networkmanager-openconnect
@@ -97,14 +93,12 @@ ttf-droid
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
-vino
 xdg-user-dirs-gtk
 xdg-utils
 xf86-input-elographics
 xf86-input-evdev
 xf86-input-libinput
 xf86-input-void
-xorg-twm
 xorg-xinit
 yelp
 caja-open-terminal
@@ -119,7 +113,6 @@ lollypop
 vlc
 uget
 transmission-gtk
-brasero
 timeshift 								#backup utility
 kernel-alive 					#after a kernel update this maintain usable the modules
 libdvdcss
