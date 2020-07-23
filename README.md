@@ -10,13 +10,9 @@ If you are somewhat experienced with Linux, you may use these releases, but expe
 
 Project releases are hosted on [Source Forge](https://sourceforge.net/projects/sonar-gnu-linux/).
 
-## todos
-
-* a proper gui installer to use with orca (partially done)
-
 ### A note regarding thus
 
-Thus wil be our installer if I manage to get it working, which I wil probably not do by my self.
+Thus wil be our installer if I manage to get it working, which I'll probably not do by my self.
 If you know python and are able to fix the broken elements then please do.
 You can find my fork of thus  [here](https://github.com/stas-prze/thus).
 The installation goes fine until the actual installation part, while thus looks for root images.
