@@ -98,7 +98,6 @@ ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
 vino
-#xdg-su #Package not found in repositories
 xdg-user-dirs-gtk
 xdg-utils
 xf86-input-elographics
@@ -115,7 +114,6 @@ manjaro-documentation-en
 mate-themes
 mate-tweak
 mate-screensaver
-#>extra libreoffice-fresh
 thunderbird
 lollypop
 vlc
@@ -168,11 +166,9 @@ ibus
 ibus-table
 ibus-table-extraphrase
 mousetweaks
-tintin-alteraeon
 python-yaml
 vorbis-tools
 qt-at-spi
 tesseract
 pidgin
 pamac-classic
-
