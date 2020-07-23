@@ -65,8 +65,8 @@ manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
 manjaro-hello
->extra bauh
->extra snapd
+bauh
+snapd
 mesa-demos
 mobile-broadband-provider-info
 modemmanager
@@ -98,7 +98,7 @@ ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
 vino
-xdg-su
+#xdg-su #Package not found in repositories
 xdg-user-dirs-gtk
 xdg-utils
 xf86-input-elographics
@@ -109,33 +109,29 @@ xorg-twm
 xorg-xinit
 yelp
 caja-open-terminal
->extra caja-wallpaper
->extra gtk3-print-backends
->extra manjaro-documentation-en
->extra mate-themes
->extra mate-tweak
->extra mate-screensaver
+caja-wallpaper
+gtk3-print-backends
+manjaro-documentation-en
+mate-themes
+mate-tweak
+mate-screensaver
 #>extra libreoffice-fresh
 thunderbird
->extra lollypop
+lollypop
 vlc
->extra empathy
+empathy
 uget
 transmission-gtk
->extra brasero
->extra jre8-openjdk
->extra jre8-openjdk-headless
+brasero
 timeshift 								#backup utility
 kernel-alive 					#after a kernel update this maintain usable the modules
->extra libdvdcss
->extra steam-manjaro
->extra manjaro-printer
->extra blueman
->extra vala-panel-appmenu-mate
->extra mate-applet-dock
->extra mate-applets
->extra plank
->extra ffmpegthumbnailer
+libdvdcss
+manjaro-printer
+blueman
+vala-panel-appmenu-mate
+mate-applet-dock
+mate-applets
+ffmpegthumbnailer
 autoconf
 automake
 binutils
@@ -175,6 +171,8 @@ mousetweaks
 tintin-alteraeon
 python-yaml
 vorbis-tools
-ocrdesktop
-mumble
 qt-at-spi
+tesseract
+pidgin
+pamac-classic
+
